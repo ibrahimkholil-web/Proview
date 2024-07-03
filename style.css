@@ -1,0 +1,774 @@
+*{
+    box-sizing: border-box;
+}
+/* nav strat here */
+.hr-style2{
+    border: 1px solid black;
+}
+.navbar{
+    background: #021F52;
+
+}
+.Ibrahim1{
+    width: 1200px;
+    height: auto;
+    margin: 32px 120px ;
+}
+.logo-img{
+    width: 184px;
+    height: 49px;
+} 
+.nav-link{
+    font-family: 'Satoshi', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: -3%;
+                                                
+}
+.nav-item{
+    font-weight: Hug (414px)px;
+    height: Hug (19px)px;
+   padding: 15px;
+    gap: 48px;
+    opacity: 0px;
+
+    
+}
+.header-btn{
+    font-weight: 700;
+    font-size: 16px !important;
+    line-height: 19.2px;
+    color: black;
+    border-radius: 100px;
+    border: 2px solid white;
+    color: var(--white);
+    background: #021F52;
+}
+.header-btn:hover{
+background-color: rgba(255, 255, 255, 0.16);   
+}
+/* nav ends here */
+/* header section start here */
+#home-banner{
+    background: #021F52;
+    padding: 50px 0px;
+}
+
+.home-banner-content{
+    text-align: center;
+    color: white;
+}
+.home-banner-btn a{
+   
+    background:rgba(255, 255, 255, 0.16) ;
+    width: Hug (217px);
+    height: Hug (33px);
+    left: 288.5px;
+    padding: 5px 14px 5px 14px;
+    gap: 8px;
+    border-radius: 20px;
+    opacity: 0px;
+    text-decoration: none;
+    color: white;
+    
+}
+.home-banner-btn > a:hover {
+color: white;
+}
+.home-banner-content > h1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 72px  ;
+    font-weight: 400;
+    line-height: 86.4px;
+    letter-spacing: -0.03em;
+    
+    
+}
+h1 > strong{
+font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 72px;
+font-weight: 800;
+line-height: 86.4px;
+letter-spacing: -0.03em;
+text-align: center;
+
+}
+.home-banner-content p{
+    font-family:" Plus Jakarta Sans", sans-serif;
+    font-size: 20px;
+    color: #FFFFFFB2;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    margin-bottom: 1rem;
+    
+}
+
+/* carousel section start here */
+   
+#carousel-1
+.carousel-control-prev{
+    width: 60px;
+    height: 60px;
+   left: 46%;
+   top: -60px;
+}
+#carousel-1
+.carousel-control-next{
+    width: 60px;
+    height: 60px;
+    right: 46%;
+    top: -60px;
+   
+}
+#carousel-1
+.carousel-control> img{
+    width: 48px;
+    height: 48px;
+    padding: 14.4px;
+    gap: 0px;
+    border-radius:50%;
+    color: black;
+    background-color: white;
+}
+
+#carousel-1
+.carousel-control> img{
+    width: 48px;
+    height: 48px;
+    padding: 14.4px;
+    gap: 0px;
+    border-radius:50%;
+    color: black;
+    
+    background-color: white;
+}
+
+/* carousel section start here */
+.carousel-btn{
+    width: 180px ;
+    background:#021F52;
+    height: 35px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0px 25px 25px ;
+    border-radius: 0px 0px 100px 100px;
+    z-index: 99;
+    left: auto ;
+    margin-bottom: -35px ;
+    position: relative;
+}
+ .carousel-btn > button{
+    background-color: #021F52;
+    border: none;
+}
+.carosel-icon {
+   background-color: white;
+   border-radius: 50%;
+   width: 40px;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.carousel-inner{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+/* header section ends here */
+
+/* products section start here */
+
+.product-title{
+font-family: "Satoshi", sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: -2px;
+text-align: center;
+color: #062F6E;
+
+}
+.view-product{
+    text-align: center;
+    
+}
+.view-product> a{
+    border-radius: 64px;
+    margin: 10px;
+    padding: 16px 32px;
+    margin-top: 2px ;
+}
+/* products section ends  */
+
+/* card section start here */
+.card > img{
+ border-radius: 5px;
+ max-width: 100%;
+}
+.card > p{
+font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 24px;
+font-weight: 600;
+line-height: 28.8px;
+letter-spacing: -0.03em;
+text-align: center;
+margin-top: 3%;
+} 
+.card > a{
+    border: solid 2px black;
+    border-radius: 20px;
+    text-align: left;
+    margin-top: 2%;
+   
+}
+
+.card{
+    border-radius: 5px;
+    padding: 18px;
+    margin-top: 10px;
+
+
+}
+.card-footer{
+    border: none;
+}
+.card-footer> img{
+width: 123px;
+height: 83px;
+gap: 0px;
+opacity: 0px;
+
+}
+.card-footer> a{
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+letter-spacing: -0.03em;
+text-align: left;
+
+}
+/* card section end here */
+/* partners section start here */
+.partners{
+gap: 8px;
+border-radius: 32px;
+opacity: 0px;
+background-color: #021F52;
+}
+.container{
+    padding: 25px;
+}
+
+.partners-left> img{
+width: 497px;
+height: 642px;
+gap: 0px;
+border-radius: 40px;
+opacity: 0px;
+margin-top: 25px ;
+}
+.partners-right{
+    padding-left: 10%;
+}
+.partners-subtitle{
+font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+letter-spacing: -0.03em;
+text-align: left;
+color: #FCC05B;
+margin-top: 15px;
+
+}
+.partners-title{
+font-family: "Satoshi", sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: -2px;
+text-align: left;
+color: white;
+}
+.partner-icon-text{
+ font-family: "Satoshi", sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 28.8px;
+text-align: left;
+color: white;
+padding-left: 30px;
+}
+
+/* partners section ends here */
+
+/* our story section start here */
+#our-story{
+width: Fixed (1,440px)px;
+top: 2919px;
+padding: 94px 82px 94px 82px;
+gap: 8px;
+opacity: 0px;
+
+}
+.container {
+width: Fill (1,276px)px;
+height: Hug (642px)px;
+gap: 0px;
+opacity: 0px;
+
+} 
+.story-left{
+    width: Fixed (641px)px;
+    height: Hug (333px)px;
+    gap: 56px;
+    opacity: 0px;
+    padding-right: 60px;
+    margin-top: 200px;
+
+}
+.sub-title > a{
+width: Hug (165px)px;
+height: Hug (33px)px;
+padding: 8px 19px 8px 19px;
+gap: 8px;
+border-radius: 50px;
+background: #021F521A;
+text-align: center;
+text-decoration: none;
+color: #415D91;
+font-weight: 400;
+font-size: 14px;
+line-height: 16.8px;
+font-family: "Plus Jakarta Sans", sans-serif;
+}
+.story-title{
+    font-family: "Satoshi", sans-serif ;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-align: left;
+    color: #062F6E;
+    margin-top: 3%;
+    
+}
+.story-text{
+font-family: "Satoshi", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: -0.03em;
+text-align: left;
+color: #415D91;
+
+}
+.story-right > img{
+max-width: 100%;
+height: 642px;
+gap: 0px;
+border-radius: 40px;
+opacity: 0px;
+
+}
+/* our story section ends here */ 
+
+/* add menu section start here */
+
+#add-menu{
+    margin-top: 369px;
+    gap: 0px;
+    border-radius: 48px 48px 0px 0px;
+    opacity: 0px;
+    background-color: #021F52;
+   
+}
+
+.add-menu-top > img{
+width: 1052px;
+height: 693px;
+margin-top: -25%;
+max-width: 100%;
+min-height: 100%;
+}
+
+.add-menu-button{
+    margin-top: -8%;
+}
+.add-menu-title{
+font-family: "Satoshi", sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: -2px;
+text-align: center;
+color: white;
+
+}
+.add-menu-text{
+gap: 0px;
+opacity: 0px;
+text-align: justify;
+color: white;
+display: flex;
+justify-content: center;
+align-self: center;
+
+}
+.add-menu-text > p{
+width: 851px;
+height: 96px;
+font-family: "Satoshi", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: -0.03em;
+
+}
+.add-menu-btn{
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 80px;
+}
+/* add menu section ends here */
+
+/* footer section start */
+.footer-img > img{
+width: 168px;
+height: 45px;
+
+}
+.footer-menu > ul >a{
+    padding: 10px;
+    text-decoration: none;
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.03em;
+text-align: center;
+color: #0E0F12B2;
+
+
+
+}
+.footer-buttom1 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 14px;
+font-weight: 600;
+line-height: 22.4px;
+letter-spacing: -0.03em;
+text-align: left;
+color: #0E0F1266;
+
+}
+.footer-buttom2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+font-size: 14px;
+font-weight: 600;
+line-height: 22.4px;
+letter-spacing: -0.03em;
+text-align: right;
+color: #0E0F1266;
+
+}
+/* footer section ends */
+
+
+/* Media section start here */
+
+/* shop section start here */
+ .filter-text-style{
+    border: 1px solid black;
+}
+.shop-top-title {
+font-family: "Satoshi", sans-serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 57.6px;
+text-align: left;
+color: #021F52;
+margin-top: 20px;
+
+}
+.shop-searc-box > input{
+width: 100%;   
+height: 46px; 
+border-radius: 50px;
+border:none;
+background-color: rgb(229, 237, 246) ;
+margin-top: 25px;
+padding-left: 40px;
+}
+.shop-searc-box > button{
+    margin-top: -4.5rem;
+    
+}
+/* filter section */
+ .filter-top-title{
+    display: flex;
+    justify-content: space-between;
+}
+.filter-top-title > p{
+font-family: "Roboto", sans-serif;
+font-size: 24px;
+font-weight: 700;
+line-height: 33.6px;
+text-align: left;
+
+}
+.category> p{
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+.hr-style{
+    border: solid black 1px;
+}
+
+.filter-title > p{
+font-family: "Roboto", sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: left;
+
+}
+.form-check > input{
+width: 18px;
+height: 18px;
+border: 1px solid black;
+
+}
+.form-check> label{
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: black;
+}
+.filter-three-four-button > button{
+width: Hug (120px)px;
+height: Hug (40px)px;
+padding: 8px 20px 8px 20px;
+gap: 8px;
+border-radius: 48px;
+margin: 5px;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+background: white;
+}
+.filter-three-four-button > button:hover{
+    background-color: #021F52;
+    color: white;
+}
+.filter-five-search-icon >  input{
+    width: 100%;
+    height: 2.4rem;
+    padding-left: 40px;
+    color: #505050;
+    border: solid 2px black;
+}
+.filter-five-search-icon > button{
+    margin-top: -65px;
+}
+.filter-six-selext-bar > select{
+    padding: 5px;
+    background-color: white;
+    width: 100%;
+    border: 2px solid black;
+}
+
+/* right site section start here */
+ .chicken-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.chicken-section > p{
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+text-align: left;
+border: solid 1px black;
+padding: 10px;
+border-radius: 50px;
+color: white;
+background-color: #021F52;
+}
+.chicken-item > select{
+    border: none;
+}
+.chicken-item > label{
+color: black;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+
+
+/* shop section ends here */
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+ 
+    .add-menu-top > img{
+        width: 1052px;
+        height: 693px;
+        margin-top: -50%;
+        max-width: 100%;
+        min-height: 100%;
+        }
+}
+
+@media only screen and (max-width: 767px) {
+    .home-banner-content > h1{
+        font-size: 32px;
+        line-height: 50px;
+        margin-top: 10px;
+    }
+    h1 > strong{
+        font-size: 32px;
+        line-height: 1.4 px;
+        margin-left: 10px;
+        margin-top: none;
+    }
+    .header-btn{
+        text-align: left;
+        margin-right: 56%;
+    }
+    .home-banner-content p{
+        font-size: 17px;
+        line-height: 20px;
+     
+    }
+      
+   .product-title{
+        font-family: "Satoshi", sans-serif;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 64px;
+        letter-spacing: -2px;
+        text-align: center;
+        color: #062F6E;
+        
+ }
+    
+.view-product> a{
+            border-radius: 30px;
+            margin: 10px;
+            padding: 15px 12px;
+            margin-top: 2px ;
+ } 
+ .partners{
+    margin: 40px;
+ }
+ .partners-left> img{
+    max-width: 100%;
+    }   
+    .partners{
+        margin: 0%;
+        padding: 0%;
+    }
+/* our story section */
+    #our-story{
+        
+        padding: 20px;
+        gap: 8px;
+    
+        
+        }
+    .story-left{
+        text-align: left;
+        font-size: 16px;
+        padding-right: 20px;
+        margin-top: 20px;
+    }
+    .story-title{
+        font-size: 40px;
+        
+    }
+    .story-text{
+         font-size: 15px;
+    }
+    .story-right{
+        margin-top: 10px;
+    }
+    /* add menu section */
+    .add-menu-top > img{
+        width: 900px;
+        height: 600px;
+        margin-top: -70%;
+        max-width: 100%;
+        }
+        .add-menu-title{
+            font-size: 30px;
+            }
+            .add-menu-text > p{
+            font-size: 15px; 
+            }
+          .add-menu-btn{
+            margin-bottom: 40px;
+          }
+          /* footer section */
+
+          .footer-menu > ul > a{
+            display: flex;
+            justify-content: center;
+            font-size: 15px;
+            padding: 5px;
+
+          }
+          .footer-buttom1 {
+           
+        text-align: center;
+       
+        
+        }
+        .footer-buttom2{
+          
+        text-align: center;
+        
+        }
+        .shop-top-title {
+            text-align: center;
+        } 
+     
+        
+        }
+@media only screen and (max-width: 600px) {
+    .product{
+        margin-top: -140%;
+    }
+    .btn-style{
+    text-align: left;
+}
+.logo-img{
+    border: solid 2px white ;
+    padding: 3px;
+}
+.body{
+    max-width: 470px;
+}
+#home-banner{
+    padding-right: 3px;
+}
+}

@@ -1,0 +1,334 @@
+#about-header{
+width: Fixed (1,440px)px;
+height: Hug (356px)px;
+top: 108px;
+padding: 80px 0px 96px 0px;
+gap: 64px;
+border-radius: 0px 0px 48px 48px;
+opacity: 0px;
+background: #021F52;
+
+}
+.about-top-title >p {
+
+font-family: "Inter", sans-serif;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+color: #f9A11B;
+}
+.about-top-title > h5{
+font-family: "Satoshi", sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: -0.02em;
+color: white;
+}
+.top-details > P{
+    font-family: "Satoshi", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+color: white;
+}
+.selar-title > p{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    
+}
+.selar-title > h5{
+font-family: "Inter", sans-serif;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: left;
+
+}
+.team-member-img img{
+    text-align: left;
+}
+.selar-dec p{
+font-family: "Inter", sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+
+}
+.selar-btn > button{
+    background-color: #FCC05B;
+    width:256px;
+height: 60px;
+padding: 16px 24px 16px 24px;
+gap: 0px;
+border-radius: 48px;
+display: flex;
+justify-content: space-between;
+
+
+}
+.selar-btn button a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.team-member{
+border-radius: 16px;
+border: 2px solid #D3D3D3 ;
+margin-left: 10px;
+padding-left: 2rem;
+margin-top: -30px;
+}
+.team-member-title> h5{
+font-family: "Inter", sans-serif;
+font-size: 30px;
+font-weight: 600;
+line-height: 38px;
+color: #021F52;
+}
+.team-member-details{
+    margin-left: 4rem;
+    margin-top: 4rem;
+}
+.team-member-contact h5{
+    font-family: "Inter", sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+color: #021F52;
+}
+.team-member-contact a{
+    text-decoration: none;
+    color: #021F52;
+}
+.team-member-contact h4{
+font-family: "Inter", sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+color: #021F52;
+}
+
+/* Locate-Representative start  */
+#Locate{
+    margin-top: 50px;
+    background-color: #021F52;
+    border-radius: 32px;
+}
+#Locate .container{
+    padding-bottom: 6rem;
+}
+.Locate-title{
+    margin-top: 40px;
+    font-family: "Satoshi", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-align: center;
+     color: white;
+}
+.Representative-location > img{
+    width: 752px;
+height: 603px;
+top: 229px;
+left: 104px;
+padding: 10px;
+}
+.Sales-Manager{
+    padding: 5rem 0rem 0rem 10rem;
+
+}
+.card{
+border-radius: 40px;
+border: 1px solid black;
+}
+.card-title h3{
+font-family: "Inter", sans-serif;
+font-size: 30px;
+font-weight: 600;
+line-height: 38px;
+margin-top: 20px;
+color: #021F52;
+}
+.card-title h5{
+    font-family: "Inter", sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+color: #021F52;
+}
+.card-title a{
+    text-decoration: none;
+    color: #021F52;
+    font-family: "Inter", sans-serif;
+}
+.card-title p{
+font-family: "Inter", sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+color: #021F52;
+}
+.card-buttom a{
+width:100%;
+height:60px;
+background: #FCC05B;
+padding: 16px 24px 16px 24px;
+gap: 0px;
+border-radius: 48px;
+text-align: left;
+
+}
+/* form section start here */
+#from-section{
+    background-color: #FCC05B;
+    padding: none;
+    border-radius: 48px 48px 0px 0px ;
+    margin-top: -4rem;
+}
+.form-main div {
+margin-top: 1rem;
+}
+
+.contant{
+    width: 50%;
+    padding: 3rem;
+}
+.contact-page{
+    margin: 5rem 0rem 3rem 0rem;
+}
+.contant-sub-title h5{
+    font-family: "Satoshi", sans-serif;
+font-size: 56px;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: left;
+color: #021F52;
+}
+.contant-sub-title p{
+    font-family: "Satoshi", sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color: #021F52;
+}
+.form-group input{
+    padding: 10px 0px 10px 14px;
+    border-radius: 5px;
+}
+.form-group select{
+    padding: 10px 0px 10px 14px;
+    border-radius: 5px;
+}
+.form-group textarea{
+    height: 134px;
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px;
+    border: solid 1px black;
+}
+.contant-img img{
+    width: 576px;
+    height: 800px;
+    gap: 0px;
+    border-radius: 3rem;
+    opacity: 0px;
+    align-items: end;
+    justify-content: end;
+    margin-left: 2rem;
+    
+
+}
+.checkbox-title P {
+padding: 10px;
+margin-top: 15px;  
+font-family: "Inter", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+.form-btn a{
+    width:100%;
+    height:60px;
+    background: #021F52;
+    padding: 16px 24px 16px 24px;
+    gap: 0px;
+    border-radius: 48px;
+    text-align: left;
+    color: white;
+    font-family: "Satoshi", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    }
+ .form-btn a:hover{
+    color: white;
+ }   
+.form-btn a > img{
+    background: white;
+}
+/* form section ends here */
+
+@media only screen and (max-width: 767px){
+    
+        .team-member{
+               display: flex;
+               flex-direction: column;
+               padding: 10px;
+               text-align: center;
+        }
+        .team-member-details{
+            margin-left: 0rem;
+            margin-top: 2rem;
+        }
+        .team-member-title a{
+            text-align: left;
+            margin-left: 0rem;
+            max-width: 100%;
+        }
+        .Representative-location > img{
+            max-width: 100%;
+        height: 50%;
+        }
+        .Locate-title{
+            font-size: 30px;
+        }
+        .Representative{
+            display: flex;
+            flex-direction: column;
+        }
+        .Sales-Manager{
+            padding:10px;
+            border-radius: 40px;
+        
+        }
+        .contact-page{
+            display: flex;
+            flex-direction: column;
+        }
+        .contant{
+            width: 100%;
+            padding: 3rem;
+        }
+        .contant-img img{
+            max-width: 100%;
+            max-height: 50%;
+            border-radius: 3rem;
+            opacity: 0px;
+            align-items: center;
+            justify-content: center;
+            margin-left: -0.2rem;
+            
+        
+        }
+    
+}

@@ -1,0 +1,271 @@
+.about-partners{
+    gap: 8px;
+    border-radius: 32px;
+    opacity: 0px;
+    background-color:white;
+    }
+    .about-story-left img{
+        width: 497px;
+        height: 642px;
+        border-radius: 40px;
+        margin-top: 3rem;
+    }
+    .about-story-right{
+        padding-left: 10%;
+    }
+    .about-story-subtitle{
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16.8px;
+        letter-spacing: -0.03em;
+        text-align: center;
+        background: #021F521A;
+        width: 200px;
+        margin-top: 3rem;
+        border-radius: 1000px;
+
+        
+    }
+    .about-story-title{
+        font-family: "Satoshi", sans-serif;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 64px;
+        letter-spacing: -2px;
+        text-align: left;
+        color: #062F6E;
+        margin-top: 3rem;
+        
+    }
+    .about-story-dec p {
+        font-family: "Satoshi", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: -0.03em;
+text-align: left;
+color: #062F6E;
+margin-top: 20px;
+
+    }
+    .about-story-icon-text{
+     font-family: "Satoshi", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    color: white;
+    padding-left: 30px;
+    }
+
+    /* our Containt section start here */
+    #our-story-Contact-Section{
+        background: #021F52;
+        padding: 128px 0px 128px 0px;
+        border-radius: 48px;
+        color:white;
+    }
+.our-operate-subtitle p{
+font-family: "Tntel", sans-serif;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+color: #FCC05B;
+
+    }
+    .our-operate-subtitle H5{
+font-family: "Inter", sans-serif;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: left;
+
+    }
+    .our-operate-dec P{
+        font-family: "Satoshi",sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: -0.03em;
+text-align: left;
+
+    }
+        /* our Containt section ends here */
+/* frame 2013 section start here */
+.frame-13-left{
+    margin-right: 5rem;
+}
+.frame-13-title{
+    font-family: "Satoshi", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-align: left;
+    color: #021F52;
+    margin-top: 3rem;
+    
+}
+.frame-13-dec {
+    font-family: "Satoshi", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #021F52;
+}
+.frame-13-right img{
+    border-radius: 40px;
+}
+.frame-13-right{
+    margin-top: 5rem;
+}
+/* frame 2013 section ends here */
+
+/* frame 2014 section start here */
+#frame-2013-section{
+    border-radius: 32px;
+    padding: 94px 82px 94px 82px;
+    background: #021F52;
+}
+.frame-14-left img{
+    border-radius: 40px;
+}
+.frame-14-right{
+    margin-left: 5rem;
+
+    
+}
+.frame-sub-title p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #FCC05B;
+    
+}
+.frame-sub-title h5{
+    font-family: "Satoshi", sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: -2px;
+text-align: left;color: white;
+
+
+}
+.frame-main-img img{
+    width: 75px;
+    height: 75px;
+    margin-top: 1.5rem;
+}
+
+.frame-dec p{
+    font-family: "Satoshi", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    color: white;
+    padding: 20px;
+}
+/* frame 2014 section ends here */
+
+/* our team section start here */
+.team-section{
+    margin-top: 5rem;
+}
+.team-sub-title h5{
+    font-family: "Satoshi", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    color:#021F52 ;    
+}
+.team-sub-title p{
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #021F52;    
+}
+.team-sub-title a{
+    border: 1px solid #021F52;
+    border-radius: 64px;
+    color: #021F52;
+}
+.col img{
+    width: 230.4px;
+    height: 296px;
+    margin-top: 15rem;    
+}
+.team-mem-dec h5{
+    margin-top: 1rem;
+}
+.team-mem-dec p{
+    color: #FCC05B;
+}
+/* our team section ends here */
+
+
+@media only screen and (max-width: 900px){
+    .col img{
+        width: 230.4px;
+        height: 296px;
+        margin-top: 2rem;    
+    }
+}
+    @media only screen and (max-width: 767px){
+        .about-story-left img{
+            max-width: 100%;
+            max-height: 50%;
+            border-radius: 40px;
+            margin-top: 3rem;
+        }
+        .frame-13-left{
+            margin-right: 0rem;
+        }
+        .frame-2013{
+            display: flex;
+            flex-direction: column;
+
+        }.frame-13-right img{
+            max-width: 100%;
+
+        }
+    
+        .frame-2014{
+            display: flex;
+            flex-direction: column;
+        }
+        .frame-14-left img{
+            max-width: 100%;
+        }
+        .frame-14-right{
+            margin-left: 0rem;
+            margin-top: 3rem;
+            max-width: 100%;
+            
+        }
+        .frame-main-img{
+            display: flex;
+            flex-direction: column;
+            max-width: 100%;
+        }
+        .frame-main-img img{
+            width: 75px;
+            height: 75px;
+        }
+        .col img{
+            width: 230.4px;
+            height: 296px;
+            margin-top: 2rem;    
+        }
+    }    

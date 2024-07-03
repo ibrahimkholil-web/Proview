@@ -1,0 +1,38 @@
+/* resource top section start here */
+.resource-top{
+    width: 100%;
+    margin-top: -5rem;
+}
+.resource-title{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.resource-title h5{
+    font-size: 2rem;
+}
+.card{
+    border: 1px solid black;
+}
+.card-top img{
+    max-width: 100%;
+}
+.card p{
+    font-size: 1rem;
+    font-family: none;
+    font-weight: none;
+}
+/* resource top section ends here */
+@media only screen and (max-width: 900px){
+    .resource-img img{
+        max-width: 100%;
+       } 
+    .resource-top{
+        width: 100%;
+    }   
+}
+@media only screen and (max-width: 767px){
+   .resource-img img{
+    max-width: 100%;
+   } 
+}
